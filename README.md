@@ -1,2 +1,2 @@
 # RayTrace-Model
-OpenGL-based rayTracing model
+OpenGL-based RayTracing model
