@@ -65,6 +65,3 @@ Contributions are welcome! If you have improvements or new features to propose, 
 
 The OpenGL-based Ray Tracing Model is released under the [MIT License](LICENSE).
 
----
-
-Thank you for exploring the OpenGL-based Ray Tracing Model! We hope this tool enhances your understanding of ray tracing techniques and contributes to your graphics-related projects. If you have any questions or feedback, please contact us at raytracing@domain.com.
